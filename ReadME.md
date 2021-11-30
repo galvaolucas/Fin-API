@@ -1,6 +1,6 @@
 ## Requisitos
 
--> Deve ser possível criar umma conta
+-> Deve ser possível criar uma conta
 
 -> Deve ser possível buscar o extrato bancário do cliente
 
